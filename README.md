@@ -1,16 +1,32 @@
-## Hi there 👋
+👋 Hey, I’m Kunal 
 
-<!--
-**TheKunal22/TheKunal22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💡 Passionate about building the future with AI, Data Science.
+Focused on learning deeply, experimenting boldly, and solving real-world problems with code.
 
-Here are some ideas to get you started:
+📈 My journey: currently mastering the fundamentals of Data Science & Machine Learning to diving into Agentic AI, GenAI, - i am always pushing to stay ahead.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Tech Stack & Skills
+
+Core Areas: Data Science, Machine Learning, Deep Learning, NLP, MLOps
+
+Libraries I Love: Pandas 🐼 🔢 NumPy , 📊 Matplotlib , 🌊 Seaborn, PyTorch 🔥, Scikit-Learn 🤖, LangChain 🔗, LangGraph 🧠
+
+Other Interests: AI Safety, Secure AI Systems, Agentic Workflows
+
+🌍 Connect with Me
+
+🔗 LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/kunal~saini/)
+
+✉️ Email: kunal54431zz@gmail.com
+
+🙋 About Me
+
+🎯 Always learning, always building.
+
+🏏 Love cricket, 🎧 music, and exploring new tech.
+
+Teachers Who Inspire Me :
+Krish Naik Sir , Amit Khurana Sir
+🔥 Inspired by visionaries like Krish Naik, Abdul Bari, and top minds in AI research.
+
+“Elite is not about knowing everything — it’s about mastering your craft and staying hungry to learn.”

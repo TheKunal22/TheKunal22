@@ -23,7 +23,8 @@ Other Interests: AI Safety, Secure AI Systems, Agentic Workflows
 
 🎯 Always learning, always building.
 
-🏏 Love cricket, 🎧 music, and exploring new tech.
+🥽 Swimming , 🏏 Love cricket,
+🎧 music, and exploring new tech.
 
 Teachers Who Inspire Me 🔥 :
 Krish Naik Sir , Amit Khurana Sir
